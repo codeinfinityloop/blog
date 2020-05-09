@@ -1,8 +1,8 @@
-baseurl = "https://www.example.org/"
+baseurl = "https://codeinfinityloop.github.io/"
 title = "Code Infinity Loop"
 copyright = "Copyright &copy; 2019 - Code Infinity"
 canonifyurls = true
-theme = "kiera"
+theme = "hugo-kiera"
 themesDir = "themes"
 
 paginate = 3
@@ -10,6 +10,7 @@ paginate = 3
 summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
+publishDir = "codeinfinityloop.github.io"
 
 [author]
     name = ""
