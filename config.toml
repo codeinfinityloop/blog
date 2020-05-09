@@ -1,6 +1,6 @@
 baseurl = "https://www.example.org/"
-title = "Kiera"
-copyright = "Copyright &copy; 2019 - Author Name"
+title = "Code Infinity Loop"
+copyright = "Copyright &copy; 2019 - Code Infinity"
 canonifyurls = true
 theme = "kiera"
 themesDir = "themes"
@@ -21,4 +21,4 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "Infinite thoughts which is not perfect and doestn't end"
