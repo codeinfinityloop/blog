@@ -1,6 +1,3 @@
 [submodule "codeinfinityloop.github.io"]
 	path = codeinfinityloop.github.io
 	url = git@github.com:codeinfinityloop/codeinfinityloop.github.io.git
-[submodule "themes/hugo-kiera"]
-	path = themes/hugo-kiera
-	url = https://github.com/funkydan2/hugo-kiera.git
